@@ -1,0 +1,14 @@
+C:\Users\provi\LoggerApp\bin\Debug\net8.0\LoggerApp.exe
+C:\Users\provi\LoggerApp\bin\Debug\net8.0\LoggerApp.deps.json
+C:\Users\provi\LoggerApp\bin\Debug\net8.0\LoggerApp.runtimeconfig.json
+C:\Users\provi\LoggerApp\bin\Debug\net8.0\LoggerApp.dll
+C:\Users\provi\LoggerApp\bin\Debug\net8.0\LoggerApp.pdb
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\LoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\LoggerApp.AssemblyInfoInputs.cache
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\LoggerApp.AssemblyInfo.cs
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\LoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\LoggerApp.dll
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\refint\LoggerApp.dll
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\LoggerApp.pdb
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\LoggerApp.genruntimeconfig.cache
+C:\Users\provi\LoggerApp\obj\Debug\net8.0\ref\LoggerApp.dll
